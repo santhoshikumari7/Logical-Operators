@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+form{
+  background-color: cadetblue;
+  display: inline-block;
+  padding: 20px;
+  
+}
+form label{
+  display: inline-block;
+  width: 150px;
+}
+form div{
+  margin: 20px;
+}
